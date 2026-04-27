@@ -24,15 +24,15 @@ header {
 }
 
 header h1 {
-    display: inline;
     margin: 0%;
+    margin-left: 12px;
+    text-align: left;
 }
 
 header nav {
     position: relative;
-    bottom: 25px;
-    text-align: right;
-    margin-right: 50px;
+    top: 10px;
+    text-align: left;
 }
 
 header nav a {
